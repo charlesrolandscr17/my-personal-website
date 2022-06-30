@@ -16,7 +16,7 @@ body{
     justify-content: center;
 }
 .my-photo{
-    background-color: blue;
+    background-color: bisque;
     min-width:  33.3333%;
     min-height: 350px;
     display: flex;
